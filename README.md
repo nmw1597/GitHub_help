@@ -2,7 +2,7 @@
 
 This is my how to for github
 
-Initial setup:
+Initial setup: /n
   git --global user.name <username>           #set a global usernam for commits
   git --global user.email <email>             #set a global email for commits
   
